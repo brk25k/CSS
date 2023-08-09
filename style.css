@@ -1,0 +1,53 @@
+body{
+    background-color: aquamarine;
+    color: firebrick;
+    background-image: url("manzara.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right top;
+}
+div{
+    background-color: brown;
+    color: bisque;
+    margin: 10px;
+}
+p{
+    background-color: yellow; font-size: 20px;
+}
+.özel-p{
+    background-color: teal;
+    color: chartreuse;
+    text-align: center;
+    
+}
+.özel-div{
+    background-color: #bebebe;
+    
+}
+#özel-kimlik{
+   background-color: crimson; 
+   text-indent: 50px;
+   letter-spacing: 2px;
+   word-spacing: 10px;
+   font-size: 40px;
+   font-style: italic;
+}
+.iki-yan-yaslama{
+    text-align: justify;
+    color: sienna;
+    background-color: bisque;
+    font-size: 25px;
+}
+a{
+    background-color: aqua;
+    color: red;
+}
+.dekorasyon{
+    text-decoration: none;
+}
+.özel-sınıf{
+    background-color: rgba(43, 49, 49, 0.521);
+}
+#özel-id{
+    background-color: blue;
+}
